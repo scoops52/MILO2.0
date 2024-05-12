@@ -11,6 +11,7 @@
 		F5613C7C2BF045C2001589BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5613C7B2BF045C2001589BB /* ContentView.swift */; };
 		F5613C7E2BF045C3001589BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5613C7D2BF045C3001589BB /* Assets.xcassets */; };
 		F5613C812BF045C3001589BB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5613C802BF045C3001589BB /* Preview Assets.xcassets */; };
+		F5613C882BF04B86001589BB /* WorkoutReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5613C872BF04B86001589BB /* WorkoutReportView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F5613C7B2BF045C2001589BB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F5613C7D2BF045C3001589BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5613C802BF045C3001589BB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F5613C872BF04B86001589BB /* WorkoutReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutReportView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F5613C792BF045C2001589BB /* MILO_ReloadedApp.swift */,
 				F5613C7B2BF045C2001589BB /* ContentView.swift */,
+				F5613C872BF04B86001589BB /* WorkoutReportView.swift */,
 				F5613C7D2BF045C3001589BB /* Assets.xcassets */,
 				F5613C7F2BF045C3001589BB /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				F5613C7C2BF045C2001589BB /* ContentView.swift in Sources */,
 				F5613C7A2BF045C2001589BB /* MILO_ReloadedApp.swift in Sources */,
+				F5613C882BF04B86001589BB /* WorkoutReportView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
